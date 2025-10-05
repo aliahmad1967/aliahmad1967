@@ -56,17 +56,8 @@ $ gh copilot explain "what technologies does Ali work with?"
 
 ## 📊 GitHub Analytics
 
-```bash
-$ gh copilot suggest "show GitHub activity"
-```
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliahmad1967&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliahmad1967&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
+<!--START_SECTION:stats-->
+<!--END_SECTION:stats-->
 
 ---
 
